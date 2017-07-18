@@ -12,11 +12,11 @@
 
 본인의 컴퓨터의 환경에 대해서 살펴보고 싶으면 
 
-\`\`\` vim
+``` vim
 
 :version
 
-\`\`\`
+```
 
 해보면 로드하는 vimrc 에 대한 정보를 알 수 있다. 
 
@@ -24,15 +24,15 @@
 
 조금 더 일반적인 내용에 대해서 보고 싶으면 
 
-\`\`\` vim
+``` vim
 
 :help vimrc
 
-\`\`\`
+```
 
 
 
-\`\`\` vim
+``` vim
 
 	Places for your personal initializations:
 
@@ -50,7 +50,7 @@
 
 				or $VIM/.vimrc
 
-\`\`\`
+```
 
 
 
@@ -74,11 +74,11 @@ vim 에서는 간단히 :e ~/.vimrc 정도만 입력해도 자기 시스템에 �
 
 
 
-\`\`\` vim
+``` vim
 
 :echo $MYVIMRC
 
-\`\`\`
+```
 
 으로도 확인 할 수 있다.
 
