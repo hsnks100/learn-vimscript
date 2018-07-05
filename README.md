@@ -12,9 +12,5 @@
 
 * ~~샘플 plugin 제작을 통해 실제 vim 생태에 기여하는 방법.~~
 
-
-
-
-
-문서는 http://kangssu.com/index.php/Vim\_script 로 이동되었습니다. 
+문서는[ http://kangssu.com/index.php/Vim\_script](http://kangssu.com/index.php/Vim_script) 로 이동되었습니다.
 
